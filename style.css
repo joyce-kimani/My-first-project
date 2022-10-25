@@ -1,0 +1,16 @@
+
+body {
+    background-color: lightgreen;
+}
+h1 {
+    font-size: 50px;
+    color: blue;
+}
+
+p {
+    color: blue;
+}
+#head {
+    color: orange;
+    align-items: center;
+}
